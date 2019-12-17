@@ -51,7 +51,7 @@
     "object.assign": "^4.1.0",
     "object.getownpropertydescriptors": "^2.0.3",
     "safe-publish-latest": "^1.1.4",
-    "semver": "^6.3.0",
+    "semver": "^7.1.1",
     "tape": "^4.11.0"
   },
   "repository": {
